@@ -1,11 +1,11 @@
 # Roteiro de teste
-## O presete documento tem por finalidade listar cenários e casos de testes para o sistema Nees, dessa forma descreverei a seguir alguns cenários e casos de testes, de modo geral tenho o intuito de descrever os cenários e casos de teste da maneira mais clara e objetva no qual acredito ser uma maneira eficiente e simples para compreesão
+#### O presete documento tem por finalidade listar cenários e casos de testes para o sistema Nees, dessa forma descreverei a seguir alguns cenários e casos de testes, de modo geral tenho o intuito de descrever os cenários e casos de teste da maneira mais clara e objetva no qual acredito ser uma maneira eficiente e simples para compreesão
 
 ## Cenário 1: Login do professor no sistema
-## Descrição: Eu como um professor usuário do sistema desejo acessar a plataforma mobile.
- ## - Caso 1: Login com sucesso##
-  **Dado** Que sou um professor devidamente cadastrado no sistema possuindo email e senha.
-  **E** Acesso o app na sessão de login
+#### Descrição: Eu como um professor usuário do sistema desejo acessar a plataforma mobile.
+ - ## Caso 1: Login com sucesso
+     **Dado** Que sou um professor devidamente cadastrado no sistema possuindo email e senha;
+     **E** Acesso o app na sessão de login;
   **E** Preencho os campos devidos de email e senha corretamente
   **Quando** Aciono o botão "Logar"
   **Então** Devo ser redirecionado para pagina inicial do app logado.
