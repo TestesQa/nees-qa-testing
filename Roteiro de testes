@@ -4,7 +4,7 @@
 ##Cenário 1: Login do professor no sistema##
     ##Descrição: Eu como um professor usuário do sistema desejo acessar a plataforma mobile.
       ##Caso 1: Login com sucesso##
-          **Dado** Que sou um professor devidamente cadastrado no sistema possuindo email e senha
+          **Dado** Que sou um professor devidamente cadastrado no sistema possuindo email e senha.
           **E** Acesso o app na sessão de login
           **E** Preencho os campos devidos de email e senha corretamente
           **Quando** Aciono o botão de logar
